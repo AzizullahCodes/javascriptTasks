@@ -15,8 +15,8 @@ Live Demo: https://javascript-tasks-mauve.vercel.app/
 Source Code: https://https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
 
 
-🔹 Task 1: multipleStyleChanger
+🔹 Task 2: multipleStyleChanger
 
 Live Demo:https://javascript-tasks-pc8l.vercel.app/
 
-Source Code: https://https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
+Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipleStyleChanger
