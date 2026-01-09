@@ -6,17 +6,25 @@ Each task focuses on a specific concept such as string manipulation, DOM handlin
 
 Below, I have provided the live Vercel deployment link and the GitHub repository link for each task.
 
-🔹 Task 1: Letter Counter
 
-Description: Counts how many times a specific letter appears in a given word.
 
+--------------------
+📌 Task 1: Letter Counter
+Counts how many times a specific letter appears in a given word.
 Live Demo: https://javascript-tasks-mauve.vercel.app/
+Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
+--------------------
 
-Source Code: https://https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
-
-
-🔹 Task 2: multipleStyleChanger
-
-Live Demo:https://javascript-tasks-pc8l.vercel.app/
-
+--------------------
+📌 Task 2: Multiple Style Changer
+Dynamically changes multiple styles of an element using JavaScript.
+Live Demo: https://javascript-tasks-pc8l.vercel.app/
 Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipleStyleChanger
+--------------------
+
+--------------------
+📌 Task 3: Simple Image Slider
+A basic image slider built using JavaScript DOM manipulation.
+Live Demo: https://javascript-tasks-s9ng.vercel.app/
+
+--------------------
