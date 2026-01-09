@@ -24,7 +24,9 @@ Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipl
 
 --------------------
 📌 Task 3: Simple Image Slider
+
 A basic image slider built using JavaScript DOM manipulation.
+
 Live Demo: https://javascript-tasks-s9ng.vercel.app/
 
 --------------------
