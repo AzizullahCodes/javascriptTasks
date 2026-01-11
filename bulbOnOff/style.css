@@ -1,0 +1,91 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Page background */
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+/* Main container */
+.container {
+    background: #ffffff;
+    padding: 35px 30px;
+    border-radius: 16px;
+    text-align: center;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+}
+
+/* Heading */
+#heading {
+    font-size: 26px;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+/* Image wrapper */
+.image-box {
+    margin-bottom: 25px;
+}
+
+/* Bulb image */
+#img {
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect on bulb */
+.image-box:hover #img {
+    transform: scale(1.05);
+}
+
+/* Button */
+#btn {
+    padding: 12px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #ff9800, #ff5722);
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+/* Button hover */
+#btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+    .container {
+        padding: 25px 20px;
+    }
+
+    #heading {
+        font-size: 22px;
+    }
+
+    #img {
+        width: 140px;
+    }
+
+    #btn {
+        font-size: 14px;
+        padding: 10px 22px;
+    }
+}
