@@ -10,16 +10,21 @@ Below, I have provided the live Vercel deployment link and the GitHub repository
 
 --------------------
 📌 Task 1: Letter Counter
-Counts how many times a specific letter appears in a given word.
-Live Demo: https://javascript-tasks-mauve.vercel.app/
-Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
+
+Live Demo:  https://javascript-tasks-mauve.vercel.app/ 
+
+source code :  https://github.com/AzizullahCodes/javascriptTasks/tree/main/letterCounter
+
 --------------------
+
 
 --------------------
 📌 Task 2: Multiple Style Changer
-Dynamically changes multiple styles of an element using JavaScript.
-Live Demo: https://javascript-tasks-pc8l.vercel.app/
-Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipleStyleChanger
+
+Live Demo: https://javascript-tasks-pc8l.vercel.app/ 
+
+souce code :  https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipleStyleChanger
+
 --------------------
 
 --------------------
@@ -28,5 +33,14 @@ Source Code: https://github.com/AzizullahCodes/javascriptTasks/tree/main/multipl
 A basic image slider built using JavaScript DOM manipulation.
 
 Live Demo: https://javascript-tasks-s9ng.vercel.app/
+
+--------------------
+
+--------------------
+📌 Task 4: Bulb on/off function (attributes playing)
+
+Live Demo: https://javascript-tasks-3lxt.vercel.app/ 
+
+souce code : https://github.com/AzizullahCodes/javascriptTasks/tree/main/bulbOnOff
 
 --------------------
