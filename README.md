@@ -44,3 +44,60 @@ Live Demo: https://javascript-tasks-3lxt.vercel.app/
 souce code : https://github.com/AzizullahCodes/javascriptTasks/tree/main/bulbOnOff
 
 --------------------
+
+📌 Task 5: swapping image task
+
+Live Demo: https://javascript-tasks-341l.vercel.app/
+
+
+
+--------------------
+
+📌 Task 6: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
+
+📌 Task 7: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
+
+
+📌 Task 8: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
+
+📌 Task 9: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
+
+📌 Task 10: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
+
+📌 Task 11: Bulb on/off function (attributes playing)
+
+Live Demo: 
+
+souce code : 
+
+--------------------
