@@ -1,10 +1,34 @@
 // todo list 
 let todoInput = document.getElementById('todoInput');
 let displayResult = document.getElementById('result');
+let button = document.getElementById('button');
+let elementIdUpdate = null;
+
+// update Item 
+function updateItem(){
+    let li = document.getElementById(elementIdUpdate);
+    li.firstChild.nodeValue = todoInput.value;
+    button.removeAttribute('onclikc');
+    button.setAttribute('onclick','addItem()');
+    button.innerHTML = 'Add Item';
+    elementIdUpdate = null;
+    clearInput();
+
+}
 
 // edit item function
 function editItem(id){
-console.log(id)
+// console.log(id)
+let targetLi = String(id);
+let liForEdit = document.getElementById(targetLi);
+// console.log(liForEdit)
+// console.log(liForEdit.firstChild)
+let liForEditValue = liForEdit.firstChild.nodeValue;
+todoInput.value = liForEditValue;
+button.innerHTML = 'update item';
+button.removeAttribute('onclick');
+button.setAttribute('onclick','updateItem()');
+elementIdUpdate = id;
 }
 // delete Item function
 function deleteItem(id){
