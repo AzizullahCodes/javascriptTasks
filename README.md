@@ -53,11 +53,10 @@ Live Demo: https://javascript-tasks-341l.vercel.app/
 
 --------------------
 
-📌 Task 6: Bulb on/off function (attributes playing)
+📌 Task 6: Hashtag Generator
 
-Live Demo: 
+Live Demo: https://javascript-tasks-65a8.vercel.app/
 
-souce code : 
 
 --------------------
 
