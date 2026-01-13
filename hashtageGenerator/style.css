@@ -64,3 +64,9 @@ button:hover{
     color: #667eea;
     word-break: break-word;
 }
+
+@media(max-width:480px){
+    h1{
+        font-size:20px;
+    }
+}
