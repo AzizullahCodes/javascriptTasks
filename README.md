@@ -60,9 +60,9 @@ Live Demo: https://javascript-tasks-65a8.vercel.app/
 
 --------------------
 
-📌 Task 7: Bulb on/off function (attributes playing)
+📌 Task 7: palindrome checker
 
-Live Demo: 
+Live Demo: https://javascript-tasks-sg4s.vercel.app/
 
 souce code : 
 
