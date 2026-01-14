@@ -77,9 +77,9 @@ souce code :
 
 --------------------
 
-📌 Task 9: Bulb on/off function (attributes playing)
+📌 Task 9: autoSlider
 
-Live Demo: 
+Live Demo: https://javascript-tasks-y8ft.vercel.app/
 
 souce code : 
 
