@@ -2,6 +2,7 @@
 function clearInput(){
     document.getElementById('input').value = '';
 }
+// main function
 function process(){
     let input = document.getElementById('input').value;
     // convert input value to lowerCase()
