@@ -73,22 +73,20 @@ souce code :
 
 Live Demo: https://javascript-tasks-da1h.vercel.app/
 
-souce code : 
+
 
 --------------------
 
 📌 Task 9: autoSlider
 
 Live Demo: https://javascript-tasks-y8ft.vercel.app/
-
 souce code : 
 
 --------------------
 
-📌 Task 10: Bulb on/off function (attributes playing)
+📌 Task 10: nicMasker
 
-Live Demo: 
-
+Live Demo: https://javascript-tasks-voee.vercel.app/
 souce code : 
 
 --------------------
