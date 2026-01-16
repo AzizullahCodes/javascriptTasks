@@ -91,10 +91,4 @@ souce code :
 
 --------------------
 
-📌 Task 11: Bulb on/off function (attributes playing)
 
-Live Demo: 
-
-souce code : 
-
---------------------
